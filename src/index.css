@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+div p{
+     color : black !important;
+     font-family: Verdana, sans-serif;
+     font-size: 16px;
+}
+
+.heading-1{
+font-weight: 900;
+color: rgb(16, 85, 165);
+font-size: 34px;
+text-transform: uppercase;
+
+}
+
+.heading-2{
+    font-weight: bold;
+    color: rgb(2, 19, 37);
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: -16px;
+    padding-bottom: 15px;
+}
+
+.bg-main{
+    background-color: rgb(16, 85, 165) !important ;
+}
+
+.button-main{
+    background-color: rgb(16, 85, 165) !important ;
+    color: white;
+    font-weight: bold;
+
+}
