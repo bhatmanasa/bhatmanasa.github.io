@@ -5,7 +5,7 @@ import {dbSkills,tech, tool,webSkills, uxSkills } from "../data";
 
 const Skills = () =>{
   return (
-    <section className="bg-gray-200">
+    <section className="bg-white-200">
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
           <h1 className="text-blue-900 font-black uppercase text-3xl ">

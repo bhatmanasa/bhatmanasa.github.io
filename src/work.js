@@ -11,7 +11,7 @@ export const work = [
         },
   {
     org: "Clario.",
-    year: "September 2021 - present",
+    year: "September 2021 - May 2022",
     location: "MA, USA",
     role: "Software Engineer Coop",
     jobProfile:["Developed Web UI Single page application", 

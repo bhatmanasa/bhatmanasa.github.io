@@ -5,7 +5,7 @@ import { projects } from "../data";
 import {icons } from "../data";
 export default function Projects() {
   return (
-    <section id="projects" className="bg-gray-200">
+    <section id="projects" className="bg-white-200">
       <div className="container px-5 py-10 mx-auto text-center lg:px-100">
         <div className="flex flex-col w-full mb-20">
           <h1 className="text-blue-900 font-black uppercase text-3xl ">

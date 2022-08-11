@@ -11,7 +11,7 @@ import {
 export default function Navbar() {
   return (
     // <section id="projects" className="text-gray-400 bg-blue-900 body-font"></section>
-    <header className="bg-blue-900 md:sticky top-0 z-10 text-white">
+    <header className="bg-gray-800 md:sticky top-0 z-10 text-white">
       <div className="container mx-auto flex flex-wrap flex-col md:flex-row items-center ">
         {/* <a className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl">
