@@ -43,7 +43,7 @@ export default function Navbar() {
           <li className="p-3 hover:bg-gray-900 uppercase text-base font-bold">
               <Link to="/">Manasa Bhat</Link>
             </li>
-          <a href="./ManasaBhatResume.pdf" download class="p-3 pr-4 mr-20 text-gray-50 hover:bg-gray-900 hover:text-white uppercase text-base font-bold" >Download Resume</a>
+          <a href="./ManasaBhatRecentResume.pdf" download class="p-3 pr-4 mr-20 text-gray-50 hover:bg-gray-900 hover:text-white uppercase text-base font-bold" >Download Resume</a>
   
             <li className="p-3 text-gray-50 hover:bg-gray-900 hover:text-white uppercase text-base font-bold">
               <Link to="/about">About</Link>
