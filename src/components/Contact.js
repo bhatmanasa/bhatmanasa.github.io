@@ -3,7 +3,7 @@ import React from "react";
 export default function Contact() {
 
   return (
-    <section className=" bg-gray-200">
+    <section className=" bg-white-200">
                 <h1 className="text-blue-900 font-black capitalize text-3xl pt-10 mt-3 text-center" >
             Thank you for viewing my profile!</h1>
             <p className="text-black font-bold uppercase text-base mb-7 mt-3 text-center">
