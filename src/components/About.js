@@ -19,7 +19,7 @@ export default function About() {
           
           <p className="mb-8 text-about">
             My name is Manasa Bhat, I am an experienced software engineer and I am from Karnataka, India.
-            I moved to Boston in 2020 to pursue graduate program in Information Systems from Northeastern University. 
+            I moved to Boston in 2020 to pursue graduate program in Information Systems from Northeastern University. <br></br>
             I am currently working as a Software Engineer in Google and I am a part of the Infra Publisher Team for the YouTube Ads.
             </p>
             <p className="mb-8 text-about">

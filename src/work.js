@@ -1,5 +1,15 @@
 export const work = [
   {
+    org: "Google LLC.",
+    year: "August 2022 - present",
+    location: "CA, USA",
+    role: "L3 SWE",
+    jobProfile:["Part of [YouTube Ads] Infra Publisher Team", 
+    "Build and maintain Youtube Ads External Integration to improve and scale the complex YouTube Ads ecosystem",
+   ],
+   primaryTech: ""
+        },
+  {
     org: "Clario.",
     year: "September 2021 - present",
     location: "MA, USA",
