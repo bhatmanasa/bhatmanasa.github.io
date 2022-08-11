@@ -10,7 +10,7 @@ export default function Contact() {
             Feel free to connect over email or LinkedIn
           </p>
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
-        <div className="lg:w-2/3 md:w-1/2 bg-gray-400 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
+        <div className="lg:w-2/3 md:w-1/2 bg-gray-800 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
 {/* 
           <iframe
             width="100%"
@@ -35,7 +35,7 @@ export default function Contact() {
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.5983240694973!2d-71.03739194914054!3d42.436284079079755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3723a5612dcb1%3A0x55edd26f7e3647c4!2s252%20Kennedy%20Dr%2C%20Malden%2C%20MA%2002148!5e0!3m2!1sen!2sus!4v1639527600584!5m2!1sen!2sus" >
 
             </iframe> */}
-          <div className="bg-blue-800 relative flex flex-wrap py-6 rounded shadow-md">
+          <div className="bg-gray-400 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-bold text-blue-800 tracking-widest text-base">
                 ADDRESS

@@ -3,7 +3,7 @@ import { work } from "../work";
 
 export default function Experience() {
   return (
-    <section id="experience" className="text-black bg-gray-200 body-font">
+    <section id="experience" className="text-black bg-white-200 body-font">
     <div className="container px-5 py-10 mx-auto text-center lg:px-100">
       <div className="flex flex-col w-full mb-20">
       <h1 className="text-blue-900 font-black uppercase text-3xl ">
