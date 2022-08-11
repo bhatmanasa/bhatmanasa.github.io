@@ -18,11 +18,12 @@ export default function About() {
             <br /><h2 className="text-black font-bold uppercase text-2xl mb-7 -mt-3" >Welcome to  my Portfolio</h2>
           
           <p className="mb-8 text-about">
-            My name is Manasa Bhat, I am a software engineer with 4 years of work experience in the Information Technology and Services Industry and I am from Karnataka, India.
-            I moved to Malden, Massachusetts in 2020 and currently I am a graduate student at Northeastern University pursuing Master of Science in Information Systems program and expecting to graduate in May 2022.
+            My name is Manasa Bhat, I am an experienced software engineer and I am from Karnataka, India.
+            I moved to Boston in 2020 to pursue graduate program in Information Systems from Northeastern University. 
+            I am currently working as a Software Engineer in Google and I am a part of the Infra Publisher Team for the YouTube Ads.
             </p>
             <p className="mb-8 text-about">
-            I am looking for full-time opportunities in the Software engineering and Full-Stack Development fields alongside open for relocation. Please feel free to view my Work experience, Academic profile and Resume. 
+            Please feel free to view my Work experience, Academic profile and Resume. 
             Thank you for your time.
           </p>
           <div className="flex justify-center">
